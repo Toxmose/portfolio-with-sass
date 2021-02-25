@@ -12,6 +12,7 @@
   transition: all 0.5s;
   border: none;
   cursor: pointer;
+  border-radius: 5px;
 }
 
 .btn {
@@ -36,6 +37,8 @@ button[class^="btn-"]:hover,
 a[class^="btn-"]:hover,
 input[class^="btn-"]:hover {
   background-color: $main-color;
+  color: $dark-color;
+  font-weight: bold;
 }
 
 // backgrounds
