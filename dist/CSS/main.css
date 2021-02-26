@@ -259,7 +259,7 @@ img {
 }
 
 #header-home {
-  background: url("/dist/img/showcase.jpg") no-repeat center right/cover;
+  background: url("../dist/img/showcase.jpg") no-repeat center right/cover;
   height: 100vh;
   color: #fff;
 }
@@ -272,7 +272,7 @@ img {
   line-height: 1.2;
 }
 #header-inner {
-  background: url("/dist/img/showcase.jpg") no-repeat 20% 30%/cover;
+  background: url("../dist/img/showcase.jpg") no-repeat 20% 30%/cover;
   height: 7rem;
   color: #fff;
   border-bottom: 2px solid #ffbc00;
