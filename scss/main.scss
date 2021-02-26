@@ -80,7 +80,8 @@ img {
 #header {
   // Header Home
   &-home {
-    background: $bg-image no-repeat center right / cover;
+    background: $bg-image no-repeat center right/cover;
+    // background-color: #444;
     height: 100vh;
     color: #fff;
 
