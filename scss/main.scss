@@ -80,8 +80,7 @@ img {
 #header {
   // Header Home
   &-home {
-    // background: url('/img/showcase.jpg') no-repeat center right / cover;
-    background-color: #333;
+    background: url("/img/showcase.jpg") no-repeat center right / cover;
     height: 100vh;
     color: #fff;
 
@@ -98,7 +97,7 @@ img {
   }
 
   &-inner {
-    background: $bg-image no-repeat 20% 30% / cover;
+    background: url("/img/showcase.jpg") no-repeat 20% 30% / cover;
     height: 7rem;
     color: #fff;
     border-bottom: 2px solid $main-color;
